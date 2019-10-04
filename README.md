@@ -1,7 +1,7 @@
 # Safety Critical C++
 ## ISO C++ Committee Paper Repository
 
-This repository contains ISO C++ committee papers from the [safety critical C++ group](https://groups.google.com/d/forum/safety-critical-cpp).
+This repository contains ISO C++ committee papers from the [Safety Critical C++ group](https://groups.google.com/d/forum/safety-critical-cpp).
 
 ### Guidelines
 
