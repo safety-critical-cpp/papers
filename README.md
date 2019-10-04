@@ -15,3 +15,4 @@ This repository contains ISO C++ committee papers from the [safety critical C++ 
   - Add the HTML version you generated to git in the paper's directory.
   - `git tag` the commit that adds the HTML version; the tag name should be `PNNNNRM` or `DNNNNRMX`.
 - Only change a paper to a "P" right before it is submitted to the ISO C++ committee. We don't want to have any confusion about what exact version of the paper was published.
+- Dates and times should use [the ISO IS 8601 format](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD`.
