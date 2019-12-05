@@ -1,10 +1,20 @@
-# Safety Critical C++
-## ISO C++ Committee Paper Repository
+# Critical Reliability C++
 
-This repository contains ISO C++ committee papers from the [Safety Critical C++ group](https://groups.google.com/d/forum/safety-critical-cpp).
+[Critical Reliabilty C++ Group](https://groups.google.com/d/forum/safety-critical-cpp).
+
+## Teleconference Presentations
 
 ### Guidelines
 
+- Submit a Pull Request for `telecon` directory.
+- Prefer to submit copies of the actual presentation given.
+- Optionally submit a markdown file with an abstract and link to web-based presentation.
+
+## ISO C++ Committee Papers
+
+### Guidelines
+
+- Submit a Pull Request for `iso` directory.
 - Use GitHub Flavored Markdown or [Bikeshed](https://github.com/tabatkins/bikeshed).
 - ISO C++ committee papers are numbered; committee members can obtain paper numbers from the [isocpp.org](https://isocpp.org) website. Contact Bryce Adelstein Lelbach for assistance obtaining a paper number.
   - `DNNNNRMX` is the `X`th (where X is an uppercase letter: `A`, `B`, ...) draft of the unpublished `M`th revision of the paper `NNNN`.
