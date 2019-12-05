@@ -8,6 +8,7 @@
 
 - Submit a Pull Request for `telecon` directory.
 - Prefer to submit copies of the actual presentation given.
+- Prefer cross-platform formats when possible (such as PDF over docx)
 - Optionally submit a markdown file with an abstract and link to web-based presentation.
 
 ## ISO C++ Committee Papers
